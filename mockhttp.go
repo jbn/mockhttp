@@ -2,6 +2,7 @@ package mockhttp
 
 import (
 	"fmt"
+	"github.com/gorilla/mux"
 	"log"
 	"math/rand"
 	"net"
